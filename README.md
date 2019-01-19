@@ -1,12 +1,13 @@
 # php
+https://community.apachefriends.org/f/viewtopic.php?f=16&t=70797
 php_printer 5.6.8 Working DLL
 Postby pylonx » 18. May 2015 22:57
 
 Hello, Friends and Friends of Friends.
 
 php_printer.dll hasn't had a PECL version since 4.0.7 so I've been rebuilding the dll using a few steps I learned by asking for help here. You can see those posts Below.
-viewtopic.php?f=16&t=53348
-viewtopic.php?f=16&t=68967
+https://community.apachefriends.org/f/viewtopic.php?f=16&t=53348
+https://community.apachefriends.org/f/viewtopic.php?f=16&t=68967
 
 The Following is specifically what I did for XAMPP with PHP 5.6.8
 
